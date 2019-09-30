@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" filepath="$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionAndSignal/ConditionAndSignal.iml" filepath="$PROJECT_DIR$/ConditionAndSignal/ConditionAndSignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReentrantLock/ReentrantLock.iml" filepath="$PROJECT_DIR$/ReentrantLock/ReentrantLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReentrantReadWriteLock/ReentrantReadWriteLock.iml" filepath="$PROJECT_DIR$/ReentrantReadWriteLock/ReentrantReadWriteLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronized/Synchronized.iml" filepath="$PROJECT_DIR$/Synchronized/Synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Volatile/Volatile.iml" filepath="$PROJECT_DIR$/Volatile/Volatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-JUC.iml" filepath="$PROJECT_DIR$/learn-JUC.iml" />
+    </modules>
+  </component>
+</project>
